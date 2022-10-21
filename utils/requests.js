@@ -1,5 +1,5 @@
 const API_KEY = process.env.API_KEY; //environment variables which are private that is not pushed over github
-
+console.log(API_KEY);
 export default {
   fetchTrending: {
     title: "Trending",

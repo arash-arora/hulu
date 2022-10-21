@@ -28,8 +28,8 @@ function Header() {
       </div>
       <Image
         className='object-contain'
-        // src='https://links.papareact.com/ua6'
-        src={logo}
+        src='https://links.papareact.com/ua6'
+        // src={logo}
         width={150}
         height={75}
       />
